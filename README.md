@@ -1,7 +1,7 @@
 ![Untitled](https://github.com/user-attachments/assets/540d6bd0-c31e-4a7a-992a-992c5f6f63b5)
 ----
 
-# 🎯 Investigatimg a Real Command Injection Attack
+# 🎯 Investigating a Real Command Injection Attack
 ----
 
 ## **Introduction**  
